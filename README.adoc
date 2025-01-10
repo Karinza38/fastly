@@ -1,4 +1,4 @@
-= Fastly
+ = Fastly
 :toc:
 :private_repo_name: terraform-states
 :private_repo_url: https://github.com/jenkins-infra/{private_repo_name}
